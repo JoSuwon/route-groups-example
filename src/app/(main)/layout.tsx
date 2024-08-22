@@ -1,3 +1,5 @@
+// app/(main)/layout.tsx
+
 export default async function MainLayout({
   children,
 }: {

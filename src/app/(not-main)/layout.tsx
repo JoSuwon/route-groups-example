@@ -1,3 +1,5 @@
+// app/(not-main)/layout.tsx
+
 export default async function NotMainLayout({
   children,
 }: {
